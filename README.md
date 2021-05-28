@@ -1,1 +1,15 @@
 # Breast-Cancer-Prediction-SVM
+
+## BREAST CANCER PREDICTION USING ML CLASSIFICATION
+  - BY SRIKAR SEETHIRAJU
+
+## Aim : Predicting if the output of breast cancer diagnosis is "Benign" or "Malignant".
+
+## Method of approach used : SVM CLASSIFICATION
+  - STEP #1: IMPORTING DATA
+  - STEP #2: VISUALIZING THE DATA
+  - STEP #3: DATA PREPROCESSING
+  - STEP #4: MODEL TRAINING
+  - STEP #5: INITIAL EVALUATION OF MODEL
+  - STEP #6: IMPROVING THE MODEL
+  - STEP #7: FINAL EVALUATION OF MODEL
